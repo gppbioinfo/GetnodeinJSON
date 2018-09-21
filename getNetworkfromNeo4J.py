@@ -125,7 +125,3 @@ def get_nodes(tx, name):
 	  
 with driver.session() as session:
     session.read_transaction(get_nodes, sys.argv[1])
-
-
-
-s

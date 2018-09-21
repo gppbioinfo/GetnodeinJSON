@@ -2,7 +2,7 @@
 
 '''
 ' This program retrieve the nodes and relations from Neo4J graph database and converted into JSON and CSV/TXT format for D3 visualization and tabular view in HTML
-'
+' Code developed for Plant Regulomics Portal (PRP) for plant regulatory network visualization by using Neo4j graph database 
 '''
 
 import os
